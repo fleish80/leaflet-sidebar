@@ -2,21 +2,11 @@
 
 A responsive sidebar plugin for [Leaflet](http://leafletjs.com/), a JS library for interactive maps.
 
-Please also have a look at [sidebar-v2](https://github.com/Turbo87/sidebar-v2), the tabbed successor of this library.
-
 <a href="https://flattr.com/submit/auto?user_id=turbo&url=https%3A%2F%2Fgithub.com%2FTurbo87%2Fleaflet-sidebar" target="_blank"><img src="https://api.flattr.com/button/flattr-badge-large.png" alt="Flattr this" title="Flattr this" border="0"></a>
-
 
 ## Examples
 
 ![Basic example](leaflet-sidebar.gif)
-
-Examples are available in the `examples` folder and on Github Pages:
-
-* [Basic example](http://turbo87.github.io/leaflet-sidebar/examples/)
-* [mapbox.js listing-markers example](http://turbo87.github.io/leaflet-sidebar/examples/listing-markers.html)
-* [Example with 2 sidebars](http://turbo87.github.io/leaflet-sidebar/examples/two-sidebars.html)
-
 
 ## Using the plugin
 
