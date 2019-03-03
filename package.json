@@ -1,6 +1,6 @@
 {
   "name": "leaflet-sidebar-v1",
-  "version": "1.0.1",
+  "version": "1.2",
   "description": "A responsive sidebar plugin for Leaflet",
   "keywords": [
     "gis",
@@ -11,7 +11,7 @@
   "bugs": "https://github.com/fleish80/leaflet-sidebar/issues",
   "license": "MIT",
   "author": "Fleish Dmitry",
-  "main": "src/L.Control.Sidebar.js",
+  "main": "src/leaflet-sidebar.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/fleish80/leaflet-sidebar.git"

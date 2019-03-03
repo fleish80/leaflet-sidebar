@@ -7,8 +7,8 @@
   ],
   "description": "A responsive sidebar plugin for Leaflet",
   "main": [
-        "src/L.Control.Sidebar.js",
-        "src/L.Control.Sidebar.css"
+        "src/leaflet-sidebar.js",
+        "src/leaflet-sidebar.css"
     ],
   "keywords": [
     "gis",
