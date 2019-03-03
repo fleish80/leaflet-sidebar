@@ -1,20 +1,20 @@
 {
-  "name": "leaflet-sidebar",
-  "version": "0.2.0",
+  "name": "leaflet-sidebar-v1",
+  "version": "1.0.0",
   "description": "A responsive sidebar plugin for Leaflet",
   "keywords": [
     "gis",
     "leaflet",
     "map"
   ],
-  "homepage": "https://github.com/turbo87/leaflet-sidebar",
-  "bugs": "https://github.com/turbo87/leaflet-sidebar/issues",
+  "homepage": "https://github.com/fleish80/leaflet-sidebar",
+  "bugs": "https://github.com/fleish80/leaflet-sidebar/issues",
   "license": "MIT",
-  "author": "Tobias Bieniek <tobias.bieniek@gmx.de>",
+  "author": "Fleish Dmitry",
   "main": "src/L.Control.Sidebar.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/turbo87/leaflet-sidebar.git"
+    "url": "https://github.com/fleish80/leaflet-sidebar.git"
   },
   "scripts": {
     "test": "gulp lint"
