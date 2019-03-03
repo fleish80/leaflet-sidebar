@@ -10,7 +10,7 @@
   "homepage": "https://github.com/fleish80/leaflet-sidebar",
   "bugs": "https://github.com/fleish80/leaflet-sidebar/issues",
   "license": "MIT",
-  "author": "Fleish Dmitry",
+  "author": "Fleish Dmitry (Forked from Tobias Bieniek)",
   "main": "src/leaflet-sidebar.js",
   "repository": {
     "type": "git",
