@@ -12,7 +12,8 @@ declare module 'leaflet' {
         }
 
         class SidebarControl extends L.Evented {
-            constructor()
+            constructor();
+            addTo(map: L.Map): this;
             toggle(): void;
         }
 
