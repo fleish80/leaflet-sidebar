@@ -2,7 +2,7 @@ import * as L from 'leaflet';
 
 declare module 'leaflet' {
 
-    namespace Control {
+    namespace Sidebar {
         type SidebarPosition = 'right' | 'left';
 
         interface SidebarOptions {
@@ -17,9 +17,7 @@ declare module 'leaflet' {
             toggle(): void;
         }
 
-    }
+        export function sidebar(placeholder: string, options?: SidebarOptions): SidebarControl;
 
-    namespace control {
-        export function sidebar(placeholder: string, options?: Control.SidebarOptions): Control.SidebarControl;
     }
 }

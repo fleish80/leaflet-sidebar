@@ -1,6 +1,6 @@
 {
   "name": "leaflet-sidebar-v1",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "A responsive sidebar plugin for Leaflet",
   "keywords": [
     "gis",
@@ -17,21 +17,10 @@
     "url": "https://github.com/fleish80/leaflet-sidebar.git"
   },
   "scripts": {
-    "test": "gulp lint"
   },
   "dependencies": {
   },
   "devDependencies": {
-    "gulp": "~3.6.0",
-    "gulp-clean": "~0.2.4",
-    "gulp-concat": "~2.1.7",
-    "gulp-csslint": "~0.1.3",
-    "gulp-header": "~0.4.0",
-    "gulp-jshint": "~1.3.4",
-    "gulp-minify-css": "~0.1.0",
-    "gulp-sass": "2.0.4",
-    "gulp-rename": "~0.2.2",
-    "gulp-uglify": "~0.1.0",
-    "gulp-zip": "~0.1.2"
+
   }
 }
